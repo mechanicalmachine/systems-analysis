@@ -12,7 +12,7 @@
 
 ## Поддомены MCP
 
-![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/f8db15dc-3859-497e-8d32-bd80ecc7d0af)
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/daa61ec4-b0ef-4e37-b4bb-3ee9595e67cc)
 
 
 ## Характеристики поддоменов
