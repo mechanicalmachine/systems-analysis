@@ -44,7 +44,7 @@
 | Биллинг для клиентов                          | generic                           | Расчет и списание затрат у клиентов                                         |
 
 
-![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/645b1216-f6f2-40f6-8b4a-d0041a9ee475)
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/d9c4580b-9ab2-448e-a048-46d4c17b91a1)
 
 
 ## Сравнение разницы боундед-контекстов после из первого урока и после разбивки боунд-контекстов на поддомены
