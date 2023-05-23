@@ -1,5 +1,15 @@
 # systems-analysis
 
+## ES диаграмма
+ - добавить скрин ES диаграммы
+ - добавить ссылку на доску Miro
+
+
+## Модель данных
+ - добавить скрин модели данных
+ - добавить ссылку на доску Miro
+
+
 ## Поддомены MCP
 
 ![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/f8db15dc-3859-497e-8d32-bd80ecc7d0af)
