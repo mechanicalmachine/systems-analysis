@@ -66,6 +66,9 @@
 ![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/858ae1c7-cc08-4305-ae30-a6925c5938cd)
 
 
+## Обновленная после анализа поддоменов и боундед-контекстов ES-диаграмма
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/41e077e9-c2cf-4aaa-bc8c-d362bfbe1251)
+[Обновленная ES-диаграмма в Miro](https://miro.com/app/board/uXjVMJdmY9o=/?moveToWidget=3458764555199476231&cot=14)
 
 
 
