@@ -2,7 +2,7 @@
 
 ## Поддомены MCP
 
-![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/601ffdb6-3b27-4bbd-aa06-8e0010efeedd)
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/f8db15dc-3859-497e-8d32-bd80ecc7d0af)
 
 
 ## Характеристики поддоменов
@@ -18,7 +18,7 @@
 
 ## MCP Core Domain Chart
 
-![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/1170dcdd-233d-41a0-8d81-07d07b9e936d)
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/39c22515-55a8-4701-b251-3b54c1c9e233)
 
 
 ## Маппинг боундед-контекстов на поддомены
