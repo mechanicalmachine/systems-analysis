@@ -1,4 +1,4 @@
-# systems-analysis
+# Анализ Систем. Урок 2
 
 ## ES диаграмма из первого урока
  ![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/657d2c64-0423-466c-ba8d-1015c42228e7)
