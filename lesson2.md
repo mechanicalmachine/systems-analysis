@@ -44,7 +44,7 @@
 | Биллинг для клиентов                          | generic                           | Расчет и списание затрат у клиентов                                         |
 
 
-![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/d9c4580b-9ab2-448e-a048-46d4c17b91a1)
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/f81bca4c-d432-4c9b-8a2d-1583d8376313)
 
 
 ## Сравнение разницы боундед-контекстов после из первого урока и после разбивки боунд-контекстов на поддомены
@@ -66,7 +66,7 @@
 ![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/f47ff83a-5c20-4780-afeb-6cb71714dd46)       | ![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/7c7cfcd1-999c-43a6-9107-ff49d0800c73)
 
 Определяем связи между боундед-контекстами:
-![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/858ae1c7-cc08-4305-ae30-a6925c5938cd)
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/d9c4580b-9ab2-448e-a048-46d4c17b91a1)
 
 
 ## Обновленная после анализа поддоменов и боундед-контекстов ES-диаграмма
