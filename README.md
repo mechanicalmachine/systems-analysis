@@ -29,7 +29,7 @@
 
 ## MCP Core Domain Chart
 
-![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/39c22515-55a8-4701-b251-3b54c1c9e233)
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/f56c79a0-fb8b-4be3-bdb0-039c492b3caf)
 
 
 ## Маппинг боундед-контекстов на поддомены
