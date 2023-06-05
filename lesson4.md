@@ -4,7 +4,7 @@
 
 ## Считаем instability для каждого элемента
 
-TODO
+![изображение](https://github.com/mechanicalmachine/systems-analysis/assets/30704273/5cef1abb-04f1-45bf-8c9f-c7ef6d379dfb)
 
 
 ## Изменение сервисов и боундед-контекстов
